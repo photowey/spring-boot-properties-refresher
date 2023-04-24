@@ -12,6 +12,7 @@
     </parent>
 
     <version>1.0.0-SNAPSHOT</version>
+    <inceptionYear>2023</inceptionYear>
 
     <artifactId>spring-boot-properties-refresher</artifactId>
     <name>spring-boot-properties-refresher</name>
